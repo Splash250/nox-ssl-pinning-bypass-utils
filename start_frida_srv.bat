@@ -1,0 +1,1 @@
+.\nox_adb.exe shell "/data/local/tmp/frida-server &"
